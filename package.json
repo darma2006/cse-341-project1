@@ -1,0 +1,19 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "https://github.com/darma2006/cse-341-project1.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darma2006/cse-341-project1.git"
+  },
+  "author": "Darma López Solis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darma2006/cse-341-project1/issues"
+  },
+  "homepage": "https://github.com/darma2006/cse-341-project1#readme"
+}
